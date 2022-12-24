@@ -1,0 +1,1 @@
+g++ -std=c++11 pagetable.cpp replacement.cpp lifo_replacement.cpp fifo_replacement.cpp lru_replacement.cpp main.cpp -o out1 && ./out1 1024 32;
